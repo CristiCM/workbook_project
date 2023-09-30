@@ -93,15 +93,21 @@ Range... `A1:D5`
 Row Field
 
 [`x`] Product
+
 [ ] Turnover
+
 [ ] Profit
+
 [ ] ROI
 
 Value Fields
 
 [ ] Product
+
 [`x`] Turnover [x] SUM [ ] AVG [ ] COUNT
+
 [`x`] Profit [ ] SUM [x] AVG [ ] COUNT
+
 [`x`] ROI [ ] SUM [ ] AVG [x] COUNT
 
 Location... `H1`
