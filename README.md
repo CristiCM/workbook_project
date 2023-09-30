@@ -39,18 +39,17 @@ Press `CTRL + L` to view the keys legend and available formulas within the appli
 
 ### Keys Legend:
 
-- CTRL + N - New sheet
-- CTRL + S - Save sheet
-- CTRL + O - Open sheet
-- CTRL + X - Cut
-- CTRL + C - Copy
-- CTRL + V - Paste
-- F2 - Edit existing cell
-- F5 - New Sheet
-- F6 - Previous Sheet
-- F7 - Next Sheet
-- F8 - Delete Sheet
-
+- New Sheet - `CTRL + N`
+- Save Sheet - `CTRL + S`
+- Open Sheet - `CTRL + O`
+- Cut - `CTRL + X`
+- Copy - `CTRL + C`
+- Paste - `CTRL + V`
+- Edit Existing Cell - `F2`
+- New Sheet - `F5`
+- Previous Sheet - `F6`
+- Next Sheet - `F7`
+- Delete Sheet - `F8`
 
 ### Formulas:
 
@@ -70,9 +69,14 @@ Press `CTRL + L` to view the keys legend and available formulas within the appli
 - Today `=TODAY()`
 - Vlookup `=VLOOKUP(lookup_value, table_array, col_index_num)`
 - Subtotal `=SUBTOTAL(func_index, A1,B1,C1)`
-func_index:
-1 - AVG
-2 - COUNT
-9 - SUM
+
+#### Subtotal Function Index
+
+| Index | Function |
+|-------|----------|
+| 1     | AVG      |
+| 2     | COUNT    |
+| 9     | SUM      |
 
 Press "Enter" to return to the sheet.
+
