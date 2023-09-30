@@ -39,37 +39,37 @@ Press `CTRL + L` to view the keys legend and available formulas within the appli
 
 ### Keys Legend:
 
-CTRL + N - New sheet
-CTRL + S - Save sheet
-CTRL + O - Open sheet
-CTRL + X - Cut
-CTRL + C - Copy
-CTRL + V - Paste
-F2 - Edit existing cell
-F5 - New Sheet
-F6 - Previous Sheet
-F7 - Next Sheet
-F8 - Delete Sheet
+- CTRL + N - New sheet
+- CTRL + S - Save sheet
+- CTRL + O - Open sheet
+- CTRL + X - Cut
+- CTRL + C - Copy
+- CTRL + V - Paste
+- F2 - Edit existing cell
+- F5 - New Sheet
+- F6 - Previous Sheet
+- F7 - Next Sheet
+- F8 - Delete Sheet
 
 
 ### Formulas:
 
-Cell Reference "=A4"
-Sum "=SUM(A1,B1,C1)"
-Average "=AVERAGE(A1,B1,C1)"
-Count "=COUNT(A1,B1,C1)"
-Mod "=MOD(number, divisor)"
-Power "=POWER(number, power)"
-Ceiling "=CEILING(number, significance)"
-Floor "=FLOOR(number, significance)"
-Concat "=CONCATENATE(A1, B1, C1)"
-Length "=LEN(A1)"
-Replace "=REPLACE(old_text, start_index, num_chars, new_text)"
-Substitute "=SUBSTITUTE(text, old_text, new_text, instance_num (optional))"
-Now "=NOW()"
-Today "=TODAY()"
-Vlookup "=VLOOKUP(lookup_value, table_array, col_index_num)"
-Subtotal "=SUBTOTAL(func_index, A1,B1,C1)"
+- Cell Reference `=A4`
+- Sum `=SUM(A1,B1,C1)`
+- Average `=AVERAGE(A1,B1,C1)`
+- Count `=COUNT(A1,B1,C1)`
+- Mod `=MOD(number, divisor)`
+- Power `=POWER(number, power)`
+- Ceiling `=CEILING(number, significance)`
+- Floor `=FLOOR(number, significance)`
+- Concat `=CONCATENATE(A1, B1, C1)`
+- Length `=LEN(A1)`
+- Replace `=REPLACE(old_text, start_index, num_chars, new_text)`
+- Substitute `=SUBSTITUTE(text, old_text, new_text, instance_num (optional))`
+- Now `=NOW()`
+- Today `=TODAY()`
+- Vlookup `=VLOOKUP(lookup_value, table_array, col_index_num)`
+- Subtotal `=SUBTOTAL(func_index, A1,B1,C1)`
 func_index:
 1 - AVG
 2 - COUNT
