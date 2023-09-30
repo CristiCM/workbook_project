@@ -45,11 +45,14 @@ Press `CTRL + L` to view the keys legend and available formulas within the appli
 - Cut - `CTRL + X`
 - Copy - `CTRL + C`
 - Paste - `CTRL + V`
+- Pivot Table Menu - `CTRL + P`
 - Edit Existing Cell - `F2`
 - New Sheet - `F5`
 - Previous Sheet - `F6`
 - Next Sheet - `F7`
 - Delete Sheet - `F8`
+- Start Server - `F9`
+- Connect to Server - `F10`
 
 ### Formulas:
 
