@@ -27,7 +27,7 @@ The Excel Mimic Console is a C# console application designed to replicate essent
 
 2. Navigate to the project directory.
    ```sh
-   cd workbook_project
+   cd workbook_project/Spreadsheet Project
 
 3. Run the application.
    ```sh
