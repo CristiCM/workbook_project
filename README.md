@@ -94,21 +94,21 @@ Row Field
 
 [`x`] Product
 
-[ ] Turnover
+[  ] Turnover
 
-[ ] Profit
+[  ] Profit
 
-[ ] ROI
+[  ] ROI
 
 Value Fields
 
 [ ] Product
 
-[`x`] Turnover [x] SUM [ ] AVG [ ] COUNT
+[`x`] Turnover [`x`] SUM [  ] AVG [  ] COUNT
 
-[`x`] Profit [ ] SUM [x] AVG [ ] COUNT
+[`x`] Profit [  ] SUM [`x`] AVG [  ] COUNT
 
-[`x`] ROI [ ] SUM [ ] AVG [x] COUNT
+[`x`] ROI [  ] SUM [  ] AVG [`x`] COUNT
 
 Location... `H1`
 
