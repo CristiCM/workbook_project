@@ -80,3 +80,37 @@ Press `CTRL + L` to view the keys legend and available formulas within the appli
 
 Press "Enter" to return to the sheet.
 
+### Pivot Table Interaction:
+
+Press `CTRL + P` to open the pivot table menu. Navigate through the menu using arrow keys and make selections or edits with the space bar.
+
+The menu is structured as follows:
+
+Navigate with arrow keys and press space to select fields or edit them:
+
+Range... `A1:D5`
+
+Row Field
+
+[`x`] Product
+[ ] Turnover
+[ ] Profit
+[ ] ROI
+
+Value Fields
+
+[ ] Product
+[`x`] Turnover [x] SUM [ ] AVG [ ] COUNT
+[`x`] Profit [ ] SUM [x] AVG [ ] COUNT
+[`x`] ROI [ ] SUM [ ] AVG [x] COUNT
+
+Location... `H1`
+
+Exit...
+
+- **Range**: Specifies the cell range for the pivot table.
+- **Row Field**: Select the row fields by navigating with arrow keys and selecting with space bar.
+- **Value Fields**: Navigate and select the value fields and the desired calculations (SUM, AVG, COUNT).
+- **Location**: Choose where you want the pivot table to be placed.
+
+Press "Enter" to confirm selections and exit the menu.
